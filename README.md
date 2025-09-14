@@ -35,6 +35,7 @@ Matplotlib & Seaborn → Data visualization
 1️⃣ Clone the Repository
 
 git clone https://github.com/yourusername/google-trends-analytics.git
+
 cd google-trends-analytics
 
 
