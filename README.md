@@ -1,4 +1,5 @@
 📊 Google Trends Data Analytics with Python
+
 📌 Project Overview
 
 This project analyzes Google Search Trends over the past 5 years to uncover insights about global interest in key topics such as Artificial Intelligence, Electric Cars, Climate Change, and Data Science.
@@ -30,9 +31,12 @@ Matplotlib & Seaborn → Data visualization
 
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/yourusername/google-trends-analytics.git
 cd google-trends-analytics
+
 
 2️⃣ Run the Notebook
 
